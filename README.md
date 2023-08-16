@@ -8,8 +8,6 @@ Qwitter is a front-end project that replicates the essence of Twitter while inte
 
 * Responsive Design: Qwitter is designed to work seamlessly across various devices, ensuring an optimal user experience on desktops, tablets, and smartphones.
 
-## Demo
-See Qwitter in action! Demo Link
 
 ## Screenshots
 ![1](https://github.com/SahilBht/Qwitter/assets/88426479/b7230467-cad3-4f53-83e9-baffd47851e9)
